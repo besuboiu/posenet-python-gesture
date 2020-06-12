@@ -85,7 +85,6 @@ This port and my work is in no way related to Google.
 * E-mail: n.n.n.h.h.b.b.26@gmail.com
  
 # License
-ライセンスを明示する
- 
+
 "posenet-python-gesture" is under Apache License.
  
